@@ -22,16 +22,9 @@ En esta clase descubriremos la forma en que se usa el lenguaje de programación 
 - Representación de distintos tipos de datos datos con gráficas
 
 
-## PROGRAMA
-
-Bienvenida (15 min)
-Primera parte: El trabajo con datos cualitativos (45 min)
-Coffee break (15 min)
-Segunda parte: El trabajo con datos cuantitativos (45 min)
-
 
 ## CONOCIMIENTOS PREVIOS REQUERIDOS:
-Este meetup está dirigido a personas con conocimientos básicos de R y de estadística descriptiva. Contesta este cuestionario para saber si cuentas con los conocimientos necesarios para aprovechar esta reunión y qué recomendaciones u opciones tenemos para ti:
+Esta clase está dirigida a personas con conocimientos básicos de R y de estadística descriptiva. Contesta este cuestionario para saber si cuentas con los conocimientos necesarios para aprovechar esta reunión y qué recomendaciones u opciones tenemos para ti:
 
 https://docs.google.com/forms/d/e/1FAIpQLSdsHB_oJ7iVdOT0I3esx5EMttMxrTibSkRFaPD2VM2REqn7tg/viewform
 
